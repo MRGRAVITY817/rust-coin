@@ -1,5 +1,8 @@
+mod blockchain;
+mod db;
 mod p2p;
 mod rest;
+mod result;
 
 use clap::{App, Arg};
 
