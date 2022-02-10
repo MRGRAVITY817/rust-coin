@@ -1,0 +1,5 @@
+### Get Documentation
+http://127.0.0.1:4000/
+
+### Get Balance of given address
+http://127.0.0.1:4000/balance/1234
