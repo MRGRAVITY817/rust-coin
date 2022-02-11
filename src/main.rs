@@ -3,6 +3,8 @@ mod db;
 mod p2p;
 mod rest;
 mod result;
+mod utils;
+mod wallet;
 
 use clap::{App, Arg};
 
