@@ -1,4 +1,5 @@
 mod blockchain;
+mod constants;
 mod db;
 mod p2p;
 mod rest;
